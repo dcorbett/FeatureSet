@@ -1,0 +1,6 @@
+{
+    "toggles":[
+        {"name" : "a", "status": true},
+        {"name" : "b", "status": true}
+    ]
+}
